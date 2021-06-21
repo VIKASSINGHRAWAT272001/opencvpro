@@ -15,7 +15,7 @@
 # 👉 Create 5 GB EBS volume and attach it to the instance. 
 
 # team_mates
-1.kapil dev
-2.vikas rawat
-3.shrikant luharia
-4.pradeep kumar
+# 1.kapil dev
+# 2.vikas rawat
+# 3.shrikant luharia
+# 4.pradeep kumar
