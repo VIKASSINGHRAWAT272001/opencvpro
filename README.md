@@ -14,7 +14,7 @@
 # 👉 Create EC2 instance in the AWS using CLI. 
 # 👉 Create 5 GB EBS volume and attach it to the instance. 
 
-team_mates
+# team_mates
 1.kapil dev
 2.vikas rawat
 3.shrikant luharia
